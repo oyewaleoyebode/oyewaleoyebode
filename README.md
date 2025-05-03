@@ -8,7 +8,7 @@ I’m Oyebode Oluwatobi Oyewale, a Master’s student at the Cyber Resilience La
 
 ### 1. Optimizing Voice Biometric Verification in Banking  
 This project addresses the challenges of device variation and environmental noise in voice-based banking systems. I adopted a machine learning approach, combining CNN-LSTM architectures with speech enhancement techniques (including adaptive filtering) to improve speaker consistency across devices.
-> Repositories Coming Soon
+> View Repositories https://github.com/oyewaleoyebode/Optimizing-Voice-Biometric-Verification-in-Banking-with-Machine-Learning-for-Speaker-Identification
 
 ### 2. Real-Time Speaker Identification System  
 Developed a speaker identification pipeline that uses fused embeddings from Whisper and ECAPA-TDNN. The system performs one-to-many speaker verification without requiring passphrases. It is designed for low-end mobile devices in real-time banking use cases.
