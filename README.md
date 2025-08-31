@@ -5,27 +5,24 @@ I’m Oyebode Oluwatobi Oyewale, a Master’s student at the Cyber Resilience La
 ---
 
 ## Research Projects
+---
+### Optimizing Voice Biometric Verification in Banking 
+---
+**Biometric verification** is essential for **secure identity verification** and **authentication** during banking transactions, using **fingerprints**, **facial features**, **irises**, and **voices**. **Voice biometrics** is a **promising** alternative among these methods, owing to its **potential for robust and convenient user authentication**.
+
+However, their effectiveness is significantly challenged by **variations in the voice** caused by **different device configurations** and **environmental conditions**. These variations can **reduce the effectiveness** of speaker identification and **undermine the reliability** of voice-based systems in **securing online transactions**. This study addresses these challenges to an **effective comparative solution** by focusing on the difficulties posed by **voice variations** resulting from differences in **device hardware**, **microphone quality**, and **environmental noise**.
+
+Our approach employs **machine learning techniques** using **advanced speech enhancement methods** to **improve the consistency and accuracy of voice biometric verification across diverse devices**. Specifically, we employ an **adaptive filter** model that enhances **signal extraction**, **noise suppression**, and **predictive precision**. Furthermore, our **empirical demonstration** demonstrated that **the adaptive filter significantly improved the accuracy of voice biometric systems by mitigating the impact of device-induced voice variations**. In addition, we evaluate the performance of this model using a range of **metrics**.
+
+**This project addresses the challenges of device variation and environmental noise in voice-based banking systems. I adopted a machine learning approach, combining CNN-LSTM architectures with speech enhancement techniques (including adaptive filtering) to improve speaker consistency across devices.**
+
+**> View Repositories https://github.com/oyewaleoyebode/Optimizing-Voice-Biometric-Verification-in-Banking-with-Machine-Learning-for-Speaker-Identification**
 
 ### Degradation-Aware Verification Framework  
 
 Proposed and implemented **Predictive Degradation Threshold Modeling (PDTM)**, **which forecasts verification risks based on SNR, MFCC variability, and previous outcomes**. This enables adaptive security controls like liveness detection and fallback mechanisms.
 
 **> Repositories Coming Soon**
-
-### Dataset Creation: SecureVoice50
-
----
-**license: cc-by-4.0**
-
-This paper introduces a **speech dataset** developed to advance research in **speaker identification** and **voice biometric verification**, 
-particularly in the context of **mobile banking** and other security-sensitive applications. 
-
-The dataset comprises recordings from **50 participants** with diverse linguistic and cultural backgrounds and varying levels of English proficiency. 
-
-Each participant provided voice samples across multiple devices, including low-end smartphones, in-call scenarios, and external microphones, recorded in both indoor and outdoor environments to reflect real-world usage conditions.
-
-**> Repositories Coming Soon**
-
 
 ### Real-Time Speaker Identification System  
 ---
@@ -44,18 +41,21 @@ This solution provides a **scalable and secure voice authentication method** tha
 
 **> Repositories Coming Soon**
 
-### Optimizing Voice Biometric Verification in Banking 
+## Dataset Creation: 
+
 ---
-**Biometric verification** is essential for **secure identity verification** and **authentication** during banking transactions, using **fingerprints**, **facial features**, **irises**, and **voices**. **Voice biometrics** is a **promising** alternative among these methods, owing to its **potential for robust and convenient user authentication**.
+**SecureVoice50**
 
-However, their effectiveness is significantly challenged by **variations in the voice** caused by **different device configurations** and **environmental conditions**. These variations can **reduce the effectiveness** of speaker identification and **undermine the reliability** of voice-based systems in **securing online transactions**. This study addresses these challenges to an **effective comparative solution** by focusing on the difficulties posed by **voice variations** resulting from differences in **device hardware**, **microphone quality**, and **environmental noise**.
+**license: cc-by-4.0**
 
-Our approach employs **machine learning techniques** using **advanced speech enhancement methods** to **improve the consistency and accuracy of voice biometric verification across diverse devices**. Specifically, we employ an **adaptive filter** model that enhances **signal extraction**, **noise suppression**, and **predictive precision**. Furthermore, our **empirical demonstration** demonstrated that **the adaptive filter significantly improved the accuracy of voice biometric systems by mitigating the impact of device-induced voice variations**. In addition, we evaluate the performance of this model using a range of **metrics**.
+This paper introduces a **speech dataset** developed to advance research in **speaker identification** and **voice biometric verification**, 
+particularly in the context of **mobile banking** and other security-sensitive applications. 
 
-**This project addresses the challenges of device variation and environmental noise in voice-based banking systems. I adopted a machine learning approach, combining CNN-LSTM architectures with speech enhancement techniques (including adaptive filtering) to improve speaker consistency across devices.**
+The dataset comprises recordings from **50 participants** with diverse linguistic and cultural backgrounds and varying levels of English proficiency. 
 
-**> View Repositories https://github.com/oyewaleoyebode/Optimizing-Voice-Biometric-Verification-in-Banking-with-Machine-Learning-for-Speaker-Identification**
+Each participant provided voice samples across multiple devices, including low-end smartphones, in-call scenarios, and external microphones, recorded in both indoor and outdoor environments to reflect real-world usage conditions.
 
+**> Repositories Coming Soon**
 
 
 ## Publications
