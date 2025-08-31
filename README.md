@@ -6,9 +6,17 @@ I’m Oyebode Oluwatobi Oyewale, a Master’s student at the Cyber Resilience La
 
 ## Research Projects
 
-### 1. Optimizing Voice Biometric Verification in Banking  
-This project addresses the challenges of device variation and environmental noise in voice-based banking systems. I adopted a machine learning approach, combining CNN-LSTM architectures with speech enhancement techniques (including adaptive filtering) to improve speaker consistency across devices.
-> View Repositories https://github.com/oyewaleoyebode/Optimizing-Voice-Biometric-Verification-in-Banking-with-Machine-Learning-for-Speaker-Identification
+### 1. Optimizing Voice Biometric Verification in Banking 
+
+**Biometric verification** is essential for **secure identity verification** and **authentication** during banking transactions, using **fingerprints**, **facial features**, **irises**, and **voices**. **Voice biometrics** is a **promising** alternative among these methods, owing to its **potential for robust and convenient user authentication**.
+
+However, their effectiveness is significantly challenged by **variations in the voice** caused by **different device configurations** and **environmental conditions**. These variations can **reduce the effectiveness** of speaker identification and **undermine the reliability** of voice-based systems in **securing online transactions**. This study addresses these challenges to an **effective comparative solution** by focusing on the difficulties posed by **voice variations** resulting from differences in **device hardware**, **microphone quality**, and **environmental noise**.
+
+Our approach employs **machine learning techniques** using **advanced speech enhancement methods** to **improve the consistency and accuracy of voice biometric verification across diverse devices**. Specifically, we employ an **adaptive filter** model that enhances **signal extraction**, **noise suppression**, and **predictive precision**. Furthermore, our **empirical demonstration** demonstrated that **the adaptive filter significantly improved the accuracy of voice biometric systems by mitigating the impact of device-induced voice variations**. In addition, we evaluate the performance of this model using a range of **metrics**.
+
+**This project addresses the challenges of device variation and environmental noise in voice-based banking systems. I adopted a machine learning approach, combining CNN-LSTM architectures with speech enhancement techniques (including adaptive filtering) to improve speaker consistency across devices.**
+
+**> View Repositories https://github.com/oyewaleoyebode/Optimizing-Voice-Biometric-Verification-in-Banking-with-Machine-Learning-for-Speaker-Identification**
 
 ### 2. Real-Time Speaker Identification System  
 Developed a speaker identification pipeline that uses fused embeddings from Whisper and ECAPA-TDNN. The system performs one-to-many speaker verification without requiring passphrases. It is designed for low-end mobile devices in real-time banking use cases.
