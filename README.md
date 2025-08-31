@@ -15,8 +15,7 @@ Proposed and implemented **Predictive Degradation Threshold Modeling (PDTM)**, *
 ### Dataset Creation: SecureVoice50
 
 ---
-license: cc-by-4.0
----
+**license: cc-by-4.0**
 
 This paper introduces a **speech dataset** developed to advance research in **speaker identification** and **voice biometric verification**, 
 particularly in the context of **mobile banking** and other security-sensitive applications. 
