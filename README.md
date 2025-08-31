@@ -11,7 +11,7 @@ I’m Oyebode Oluwatobi Oyewale, a Master’s student at the Cyber Resilience La
 Proposed and implemented **Predictive Degradation Threshold Modeling (PDTM)**, **which forecasts verification risks based on SNR, MFCC variability, and previous outcomes**. This enables adaptive security controls like liveness detection and fallback mechanisms.
 
 **> Repositories Coming Soon**
----
+
 ### Dataset Creation: SecureVoice50
 
 ---
@@ -27,9 +27,9 @@ Each participant provided voice samples across multiple devices, including low-e
 
 **> Repositories Coming Soon**
 
----
-### Real-Time Speaker Identification System  
 
+### Real-Time Speaker Identification System  
+---
 **The rise of the mobile era**, especially with the **availability of the internet**, has significantly contributed to the **growth of mobile banking**, enhancing **financial inclusion**, particularly among **underserved populations**. However, **reliance on basic mobile devices** without **advanced biometric security features** exposes users to risks of **financial fraud**, **unauthorized account access**, and **identity theft**.
 
 This study introduces a **lightweight speaker identification system** tailored to improve the **security of mobile banking** in **low-resource environments**. By utilizing **voice biometric authentication**, the system **confirms the user’s identity through their voice** at the end of each transaction, ensuring that only the **authorized user** can complete the transaction even if their **Personal Identification Number (PIN)** is compromised.
@@ -44,9 +44,9 @@ This solution provides a **scalable and secure voice authentication method** tha
 
 
 **> Repositories Coming Soon**
----
-### Optimizing Voice Biometric Verification in Banking 
 
+### Optimizing Voice Biometric Verification in Banking 
+---
 **Biometric verification** is essential for **secure identity verification** and **authentication** during banking transactions, using **fingerprints**, **facial features**, **irises**, and **voices**. **Voice biometrics** is a **promising** alternative among these methods, owing to its **potential for robust and convenient user authentication**.
 
 However, their effectiveness is significantly challenged by **variations in the voice** caused by **different device configurations** and **environmental conditions**. These variations can **reduce the effectiveness** of speaker identification and **undermine the reliability** of voice-based systems in **securing online transactions**. This study addresses these challenges to an **effective comparative solution** by focusing on the difficulties posed by **voice variations** resulting from differences in **device hardware**, **microphone quality**, and **environmental noise**.
@@ -57,10 +57,10 @@ Our approach employs **machine learning techniques** using **advanced speech enh
 
 **> View Repositories https://github.com/oyewaleoyebode/Optimizing-Voice-Biometric-Verification-in-Banking-with-Machine-Learning-for-Speaker-Identification**
 
----
+
 
 ## Publications
-
+---
 **Optimizing Voice Biometric Verification in Banking with Machine Learning for Speaker Identification**  
 *Presented at APCC 2024*  
 O. O. Oyewale, M. D. Hossain, Y. Taenaka, and Y. Kadobayashi  
