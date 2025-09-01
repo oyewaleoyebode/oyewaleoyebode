@@ -59,6 +59,21 @@ Each participant provided voice samples across multiple devices, including low-e
 
 **> Repositories Coming Soon**
 
+### A Pilot Speech Corpus for Studying Device and Environmental Variability in Voice Biometrics
+
+**license: cc-by-4.0**
+
+A total of 480 recordings were collected from 12 participants with diverse demographic backgrounds, including individuals from Japan, Nigeria, the Ivory Coast, France, Germany, and Indonesia.
+Each participant contributed 40 utterances, recorded across multiple devices: Samsung A04s, OnePlus Nord, iPhone 15 Pro, and a USB condenser microphone on a MacBook, and under both indoor and outdoor conditions. 
+
+The recordings capture variations introduced by microphone quality, network transmission (in-call speech), and environmental noise. All files are stored in WAV format with standardized sampling rates between 8–16 kHz, accompanied by metadata containing non-identifiable demographic attributes such as nationality, age, gender, and English proficiency.
+
+The dataset is designed for evaluating and benchmarking speech enhancement algorithms, including spectral subtraction, Wiener filtering, and adaptive filtering, as well as for studying their impact on downstream speaker identification and verification tasks. 
+
+By providing a balanced collection of cross-device, cross-environment recordings, this dataset enables the development of more consistent, accurate, and secure voice biometric systems.
+
+**> Repositories Coming Soon**
+
 
 ## Publications
 ---
