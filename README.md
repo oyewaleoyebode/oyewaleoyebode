@@ -77,13 +77,18 @@ By providing a balanced collection of cross-device, cross-environment recordings
 
 ## Publications
 ---
-**Optimizing Voice Biometric Verification in Banking with Machine Learning for Speaker Identification**  
-*Presented at APCC 2024*  
-O. O. Oyewale, M. D. Hossain, Y. Taenaka, and Y. Kadobayashi  
-2024 IEEE 29th Asia Pacific Conference on Communications (APCC), Bali, Indonesia, pp. 377–384  
-DOI: [10.1109/APCC62576.2024.10768085](https://doi.org/10.1109/APCC62576.2024.10768085)
 
----
+O. O. Oyewale, M. D. Hossain, Y. Taenaka, and Y. Kadobayashi,  
+**"Optimizing Voice Biometric Verification in Banking with Machine Learning for Speaker Identification,"**  
+*Proceedings of the 2024 IEEE 29th Asia Pacific Conference on Communications (APCC)*,  
+Bali, Indonesia, pp. 377–384, 2024.  
+DOI: [10.1109/APCC62576.2024.10768085](https://doi.org/10.1109/APCC62576.2024.10768085)  
+
+O. O. Oyewale,  
+**"A Pilot Speech Corpus for Studying Device and Environmental Variability in Voice Biometrics,"**  
+*Figshare*, 2025.  
+DOI: [10.6084/m9.figshare.30039037](https://doi.org/10.6084/m9.figshare.30039037)  
+
 
 ## Tools & Technologies I Use
 
