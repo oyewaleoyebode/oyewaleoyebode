@@ -1,7 +1,7 @@
 # About Me
 
 I’m Oyebode Oluwatobi Oyewale, a PhD student at the Cyber Resilience Laboratory, NAIST (Japan). My research focuses on voice biometrics and the design of secure speaker verification systems. I work at the intersection of artificial intelligence and cybersecurity, with a strong emphasis on practical deployment for mobile banking and financial security in underserved and low-resource environments.
----
+
 
 ## Research Projects
 ---
