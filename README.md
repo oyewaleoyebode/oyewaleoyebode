@@ -1,36 +1,31 @@
 # About Me
 
-I’m Oyebode Oluwatobi Oyewale, a Master’s student at the Cyber Resilience Laboratory, NAIST (Japan). I specialize in voice biometrics and the development of secure speaker verification systems. My research bridges artificial intelligence, cybersecurity, and practical deployment, particularly for mobile banking in underserved and low-resource environments.
-
+I’m Oyebode Oluwatobi Oyewale, a PhD student at the Cyber Resilience Laboratory, NAIST (Japan). My research focuses on voice biometrics and the design of secure speaker verification systems. I work at the intersection of artificial intelligence and cybersecurity, with a strong emphasis on practical deployment for mobile banking and financial security in underserved and low-resource environments.
 ---
 
 ## Research Projects
 ---
 ### Optimizing Voice Biometric Verification in Banking 
 
-**Biometric verification** is essential for **secure identity verification** and **authentication** during banking transactions, using **fingerprints**, **facial features**, **irises**, and **voices**. **Voice biometrics** is a **promising** alternative among these methods, owing to its **potential for robust and convenient user authentication**.
+Biometric verification is increasingly important for secure identity authentication in banking. While fingerprints, facial recognition, and iris scanning are widely used, voice biometrics stands out as a promising solution due to its convenience, accessibility, and non-intrusive nature.
 
-However, their effectiveness is significantly challenged by **variations in the voice** caused by **different device configurations** and **environmental conditions**. These variations can **reduce the effectiveness** of speaker identification and **undermine the reliability** of voice-based systems in **securing online transactions**. This study addresses these challenges to an **effective comparative solution** by focusing on the difficulties posed by **voice variations** resulting from differences in **device hardware**, **microphone quality**, and **environmental noise**.
+A key challenge, however, lies in the variability of voice data. Differences in device hardware, microphone quality, and recording environments introduce inconsistencies that can degrade system performance. For mobile banking, where customers often rely on low-end devices in noisy environments, this variability threatens both security and usability.
 
-Our approach employs **machine learning techniques** using **advanced speech enhancement methods** to **improve the consistency and accuracy of voice biometric verification across diverse devices**. Specifically, we employ an **adaptive filter** model that enhances **signal extraction**, **noise suppression**, and **predictive precision**. Furthermore, our **empirical demonstration** demonstrated that **the adaptive filter significantly improved the accuracy of voice biometric systems by mitigating the impact of device-induced voice variations**. In addition, we evaluate the performance of this model using a range of **metrics**.
-
-**This project addresses the challenges of device variation and environmental noise in voice-based banking systems. I adopted a machine learning approach, combining CNN-LSTM architectures with speech enhancement techniques (including adaptive filtering) to improve speaker consistency across devices.**
+This project tackles these issues by combining machine learning methods with speech enhancement techniques to improve the reliability and accuracy of voice biometric verification.
 
 **> View Repositories https://github.com/oyewaleoyebode/Optimizing-Voice-Biometric-Verification-in-Banking-with-Machine-Learning-for-Speaker-Identification**
 
 ### Real-Time Speaker Identification System  
 
-**The rise of the mobile era**, especially with the **availability of the internet**, has significantly contributed to the **growth of mobile banking**, enhancing **financial inclusion**, particularly among **underserved populations**. However, **reliance on basic mobile devices** without **advanced biometric security features** exposes users to risks of **financial fraud**, **unauthorized account access**, and **identity theft**.
+Mobile banking has boosted financial inclusion, but reliance on basic devices without biometric security exposes users to risks of fraud and unauthorized access.
 
-This study introduces a **lightweight speaker identification system** tailored to improve the **security of mobile banking** in **low-resource environments**. By utilizing **voice biometric authentication**, the system **confirms the user’s identity through their voice** at the end of each transaction, ensuring that only the **authorized user** can complete the transaction even if their **Personal Identification Number (PIN)** is compromised.
+This project presents a lightweight speaker identification system that uses voice biometrics to confirm the user’s identity in real time, even if their PIN is compromised.
 
-The system combines **advanced deep learning models**, such as **Whisper-large-v3** and **Emphasized Channel Attention, Propagation, and Aggregation in Time Delay Neural Network (ECAPA-TDNN)**, to **extract detailed voice features**, including **linguistic patterns** and **unique speaker traits**, ensuring **high accuracy** and **reliability** in **real-time identification**. Additionally, **liveness detection** is integrated to **defend against advanced spoofing**, further enhancing **system security**.
+The system leverages Whisper-large-v3 and ECAPA-TDNN for fused embeddings, ensuring high accuracy, robustness, and real-time performance on low-end devices. Integrated liveness detection strengthens defense against spoofing attacks.
 
-Evaluations on **real-world data** demonstrate the system’s **robust performance**, achieving **99.59% accuracy**, **99.62% precision**, and an **Equal Error Rate (EER) of 0.0017**, validating the system’s **practicality in constrained environments** without requiring **extensive computational resources**.
+Evaluations show 99.59% accuracy, 99.62% precision, and an EER of 0.0017, demonstrating its practicality in constrained environments.
 
-This solution provides a **scalable and secure voice authentication method** that is particularly beneficial for **underserved communities**, advancing both **mobile banking security** and **financial inclusion**.
-
-**Developed a speaker identification pipeline** that uses **fused embeddings from Whisper and ECAPA-TDNN**. The system performs **one-to-many speaker verification** without requiring **passphrases**. It is designed for **low-end mobile devices** in **real-time banking use cases**.
+Developed a one-to-many verification pipeline with fused embeddings for secure and scalable mobile banking applications.
 
 
 **> Repositories Coming Soon**
@@ -50,27 +45,19 @@ Proposed and implemented **Predictive Degradation Threshold Modeling (PDTM)**, *
 
 **license: cc-by-4.0**
 
-This paper introduces a **speech dataset** developed to advance research in **speaker identification** and **voice biometric verification**, 
-particularly in the context of **mobile banking** and other security-sensitive applications. 
+This paper introduces a **speech dataset** developed to advance research in **speaker identification** and **voice biometric verification**, particularly in the context of **mobile banking** and other security-sensitive applications. 
 
-The dataset comprises recordings from **50 participants** with diverse linguistic and cultural backgrounds and varying levels of English proficiency. 
+The dataset comprises recordings from **50 participants** with diverse linguistic and cultural backgrounds and varying levels of English proficiency. Each participant provided voice samples across multiple devices, including low-end smartphones, in-call scenarios, and external microphones, recorded in both indoor and outdoor environments to reflect real-world usage conditions.
 
-Each participant provided voice samples across multiple devices, including low-end smartphones, in-call scenarios, and external microphones, recorded in both indoor and outdoor environments to reflect real-world usage conditions.
-
-**> Repositories Coming Soon**
+**> View Repositories https://github.com/oyewaleoyebode/SecureVoice50-A-Multi-Device-Multi-Environment-Speech-Dataset-for-Secure-Speaker-Verification**
 
 ### A Pilot Speech Corpus for Studying Device and Environmental Variability in Voice Biometrics
 
 **license: cc-by-4.0**
 
-A total of 480 recordings were collected from 12 participants with diverse demographic backgrounds, including individuals from Japan, Nigeria, the Ivory Coast, France, Germany, and Indonesia.
-Each participant contributed 40 utterances, recorded across multiple devices: Samsung A04s, OnePlus Nord, iPhone 15 Pro, and a USB condenser microphone on a MacBook, and under both indoor and outdoor conditions. 
+This dataset contains 480 recordings from 12 participants, collected across multiple devices (Samsung A04s, OnePlus Nord, iPhone 15 Pro, USB condenser mic) and in both indoor and outdoor conditions.
 
-The recordings capture variations introduced by microphone quality, network transmission (in-call speech), and environmental noise. All files are stored in WAV format with standardized sampling rates between 8–16 kHz, accompanied by metadata containing non-identifiable demographic attributes such as nationality, age, gender, and English proficiency.
-
-The dataset is designed for evaluating and benchmarking speech enhancement algorithms, including spectral subtraction, Wiener filtering, and adaptive filtering, as well as for studying their impact on downstream speaker identification and verification tasks. 
-
-By providing a balanced collection of cross-device, cross-environment recordings, this dataset enables the development of more consistent, accurate, and secure voice biometric systems.
+It captures cross-device and cross-environment variability to support research on speech enhancement, speaker identification, and speaker verification, enabling the development of more robust and secure voice biometric systems.
 
 **>View Repositories https://github.com/oyewaleoyebode/A-Pilot-Speech-Corpus-for-Studying-Device-and-Environmental-Variability-in-Voice-Biometrics**
 
@@ -89,6 +76,10 @@ O. O. Oyewale,
 *Figshare*, 2025.  
 DOI: [10.6084/m9.figshare.30039037](https://doi.org/10.6084/m9.figshare.30039037)  
 
+Oyebode, O. (2025), 
+**"SecureVoice50: A Multi-Device, Multi-Environment Speech Dataset for Robust and Secure Speaker Verification,"**
+*Zenodo*, 2025. 
+DOI: 10.5281/zenodo.17184012 
 
 ## Tools & Technologies I Use
 
