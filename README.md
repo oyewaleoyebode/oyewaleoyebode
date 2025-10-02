@@ -17,16 +17,9 @@ This project tackles these issues by combining machine learning methods with spe
 
 ### Real-Time Speaker Identification System  
 
-Mobile banking has boosted financial inclusion, but reliance on basic devices without biometric security exposes users to risks of fraud and unauthorized access.
+Mobile banking has boosted financial inclusion, but reliance on basic devices without biometric security exposes users to risks of fraud and unauthorized access. This project presents a lightweight speaker identification system that uses voice biometrics to confirm the user’s identity in real time, even if their PIN is compromised.
 
-This project presents a lightweight speaker identification system that uses voice biometrics to confirm the user’s identity in real time, even if their PIN is compromised.
-
-The system leverages Whisper-large-v3 and ECAPA-TDNN for fused embeddings, ensuring high accuracy, robustness, and real-time performance on low-end devices. Integrated liveness detection strengthens defense against spoofing attacks.
-
-Evaluations show 99.59% accuracy, 99.62% precision, and an EER of 0.0017, demonstrating its practicality in constrained environments.
-
-Developed a one-to-many verification pipeline with fused embeddings for secure and scalable mobile banking applications.
-
+The system leverages Whisper-large-v3 and ECAPA-TDNN for fused embeddings, ensuring high accuracy, robustness, and real-time performance on low-end devices. Integrated liveness detection strengthens defense against spoofing attacks. Evaluations show 99.59% accuracy, 99.62% precision, and an EER of 0.0017, demonstrating its practicality in constrained environments.
 
 **> Repositories Coming Soon**
 
@@ -79,7 +72,7 @@ DOI: [10.6084/m9.figshare.30039037](https://doi.org/10.6084/m9.figshare.30039037
 Oyebode, O. (2025), 
 **"SecureVoice50: A Multi-Device, Multi-Environment Speech Dataset for Robust and Secure Speaker Verification,"**
 *Zenodo*, 2025. 
-DOI: 10.5281/zenodo.17184012 
+DOI: [10.5281/zenodo.17184012](https://doi.org/10.5281/zenodo.17184012)
 
 ## Tools & Technologies I Use
 
