@@ -62,7 +62,7 @@ O. Oluwatobi Oyewale, Y. Taenaka, and Y. Kadobayashi,
 **"Speaker Identification for Low-End Devices: A Secure Voice Biometric Solution for Mobile Banking,"**
 *2025 11th IEEE International Conference on Privacy Computing and Data Security (PCDS),*
 Hakodate, Japan, 2025, pp. 80-87, 
-DOI: 10.1109/PCDS65695.2025.00020.
+DOI: [10.1109/PCDS65695.2025.00020](https://doi.org/10.1109/PCDS65695.2025.00020)
 
 O. O. Oyewale, M. D. Hossain, Y. Taenaka, and Y. Kadobayashi,  
 **"Optimizing Voice Biometric Verification in Banking with Machine Learning for Speaker Identification,"**  
