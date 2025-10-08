@@ -21,7 +21,7 @@ Mobile banking has boosted financial inclusion, but reliance on basic devices wi
 
 The system leverages Whisper-large-v3 and ECAPA-TDNN for fused embeddings, ensuring high accuracy, robustness, and real-time performance on low-end devices. Integrated liveness detection strengthens defense against spoofing attacks. Evaluations show 99.59% accuracy, 99.62% precision, and an EER of 0.0017, demonstrating its practicality in constrained environments.
 
-**> Repositories Coming Soon**
+**> View Repositories https://github.com/oyewaleoyebode/Speaker-Identification-for-Low-End-Devices-A-Secure-Voice-Biometric-Solution-for-Mobile-Banking**
 
 ### Degradation-Aware Verification Framework  
 
